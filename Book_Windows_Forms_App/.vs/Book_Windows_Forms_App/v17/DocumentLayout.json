@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|d:\\programmin advice\\c# and ado.net 18\\projects\\book project\\book_windows_forms_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF69F8E-EEA2-4990-8478-7BA622C20334}|..\\DataLayer\\DataLayerBook.csproj|d:\\programmin advice\\c# and ado.net 18\\projects\\book project\\datalayer\\clsdataborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\user\\showusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\user\\showusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF477BAD-DDFE-4703-B107-7D309C9AF936}|..\\BusinessLayerBook\\BusinessLayerBook.csproj|d:\\programmin advice\\c# and ado.net 18\\projects\\book project\\businesslayerbook\\clsutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\mainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:mainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF477BAD-DDFE-4703-B107-7D309C9AF936}|..\\BusinessLayerBook\\BusinessLayerBook.csproj|d:\\programmin advice\\c# and ado.net 18\\projects\\book project\\businesslayerbook\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\user\\showusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\user\\showusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\benefitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:benefitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\mainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:mainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\benefitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:benefitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesbenefitscreen\\mybenefitborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesbenefitscreen\\mybenefitborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\recipientscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:recipientscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\recipientscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:recipientscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesbenefitscreen\\getallrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesbenefitscreen\\getallrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesrecipientscreen\\myborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesrecipientscreen\\myborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\request\\getrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\request\\getrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesmainadmin\\request\\getrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesmainadmin\\request\\getrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\usercontrolesrecipientscreen\\myborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813FB5A5-36BF-4ACA-B807-4D6EF4EDC42C}|Book_Windows_Forms_App.csproj|solutionrelative:usercontrolesrecipientscreen\\myborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDataBorrowing.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\DataLayer\\clsDataBorrowing.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataBorrowing.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\DataLayer\\clsDataBorrowing.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataBorrowing.cs",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAAANMBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:32:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:21:02.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\User\\UserForm.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\UserForm.cs",
+              "RelativeToolTip": "UserControlesMainAdmin\\User\\UserForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwE8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:07:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowUsers.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "RelativeToolTip": "UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAhwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:07:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\User\\ShowUsers.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\ShowUsers.cs [Design]",
+              "RelativeToolTip": "UserControlesMainAdmin\\User\\ShowUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:07:08.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUtility.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\BusinessLayerBook\\clsUtility.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerBook\\clsUtility.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\BusinessLayerBook\\clsUtility.cs",
+              "RelativeToolTip": "..\\BusinessLayerBook\\clsUtility.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:02:06.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainAdmin.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\MainAdmin.cs",
+              "RelativeDocumentMoniker": "MainAdmin.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\MainAdmin.cs",
+              "RelativeToolTip": "MainAdmin.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:59:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\User\\UserForm.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\User\\UserForm.cs [Design]",
+              "RelativeToolTip": "UserControlesMainAdmin\\User\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:07:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\BusinessLayerBook\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerBook\\clsUser.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\BusinessLayerBook\\clsUser.cs",
+              "RelativeToolTip": "..\\BusinessLayerBook\\clsUser.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wCoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:12:53.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:30:00.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:29:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BenefitScreen.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\BenefitScreen.cs",
+              "RelativeDocumentMoniker": "BenefitScreen.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\BenefitScreen.cs",
+              "RelativeToolTip": "BenefitScreen.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAhwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:58:53.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BenefitScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\BenefitScreen.cs",
+              "RelativeDocumentMoniker": "BenefitScreen.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\BenefitScreen.cs [Design]",
+              "RelativeToolTip": "BenefitScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:48:23.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyBenefitBorrowing.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesBenefitScreen\\MyBenefitBorrowing.cs",
+              "RelativeDocumentMoniker": "UserControlesBenefitScreen\\MyBenefitBorrowing.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesBenefitScreen\\MyBenefitBorrowing.cs [Design]",
+              "RelativeToolTip": "UserControlesBenefitScreen\\MyBenefitBorrowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:00:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\MainAdmin.cs",
+              "RelativeDocumentMoniker": "MainAdmin.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\MainAdmin.cs [Design]",
+              "RelativeToolTip": "MainAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:53:45.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecipientScreen.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\RecipientScreen.cs",
+              "RelativeDocumentMoniker": "RecipientScreen.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\RecipientScreen.cs",
+              "RelativeToolTip": "RecipientScreen.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAhwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:54:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecipientScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\RecipientScreen.cs",
+              "RelativeDocumentMoniker": "RecipientScreen.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\RecipientScreen.cs [Design]",
+              "RelativeToolTip": "RecipientScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:37:38.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllRequests.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesBenefitScreen\\GetAllRequests.cs",
+              "RelativeDocumentMoniker": "UserControlesBenefitScreen\\GetAllRequests.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesBenefitScreen\\GetAllRequests.cs [Design]",
+              "RelativeToolTip": "UserControlesBenefitScreen\\GetAllRequests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:00:03.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetRequests.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\Request\\GetRequests.cs [Design]",
+              "RelativeToolTip": "UserControlesMainAdmin\\Request\\GetRequests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:02:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyBorrowings.cs [Design]",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesRecipientScreen\\MyBorrowings.cs",
+              "RelativeDocumentMoniker": "UserControlesRecipientScreen\\MyBorrowings.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesRecipientScreen\\MyBorrowings.cs [Design]",
+              "RelativeToolTip": "UserControlesRecipientScreen\\MyBorrowings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:54:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetRequests.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "RelativeDocumentMoniker": "UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "RelativeToolTip": "UserControlesMainAdmin\\Request\\GetRequests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:02:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyBorrowings.cs",
+              "DocumentMoniker": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesRecipientScreen\\MyBorrowings.cs",
+              "RelativeDocumentMoniker": "UserControlesRecipientScreen\\MyBorrowings.cs",
+              "ToolTip": "D:\\Programmin Advice\\C# And ADO.NET 18\\Projects\\Book Project\\Book_Windows_Forms_App\\UserControlesRecipientScreen\\MyBorrowings.cs",
+              "RelativeToolTip": "UserControlesRecipientScreen\\MyBorrowings.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:56:37.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

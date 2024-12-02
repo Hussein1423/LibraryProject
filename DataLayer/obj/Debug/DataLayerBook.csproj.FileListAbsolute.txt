@@ -1,0 +1,12 @@
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\obj\Debug\DataLayerBook.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\obj\Debug\DataLayerBook.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\bin\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\bin\Debug\DataLayer.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\obj\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\DataLayer\obj\Debug\DataLayer.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\obj\Debug\DataLayerBook.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\obj\Debug\DataLayerBook.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\obj\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\obj\Debug\DataLayer.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\bin\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\DataLayer\bin\Debug\DataLayer.pdb

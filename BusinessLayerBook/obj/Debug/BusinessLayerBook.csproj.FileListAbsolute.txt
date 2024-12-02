@@ -1,0 +1,18 @@
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\bin\Debug\BusinessLayerBook.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\bin\Debug\BusinessLayerBook.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\bin\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\bin\Debug\DataLayer.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\obj\Debug\BusinessLayerBook.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\obj\Debug\BusinessLayerBook.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\obj\Debug\Business.DC3F1DDD.Up2Date
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\obj\Debug\BusinessLayerBook.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\BusinessLayerBook\obj\Debug\BusinessLayerBook.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\obj\Debug\BusinessLayerBook.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\obj\Debug\BusinessLayerBook.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\obj\Debug\BusinessLayerBook.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\obj\Debug\BusinessLayerBook.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\bin\Debug\BusinessLayerBook.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\bin\Debug\BusinessLayerBook.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\bin\Debug\DataLayer.dll
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\bin\Debug\DataLayer.pdb
+D:\Programmin Advice\C# And ADO.NET 18\Projects\Book Project\BusinessLayerBook\obj\Debug\Business.DC3F1DDD.Up2Date
